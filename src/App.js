@@ -15,7 +15,7 @@ function App() {
 
   return (
     <Wrapper>
-      
+      <Screen></Screen>
     </Wrapper>
   );
 }
