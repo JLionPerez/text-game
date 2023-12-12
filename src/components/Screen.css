@@ -1,0 +1,17 @@
+.screen {
+    height: 50%;
+    width: 100%;
+    padding: 10px;
+    background-color: #2a2a2a;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: white;
+    font-weight: regular;
+    box-sizing: border-box;
+}
+
+/* p {
+    font-size: 30px;
+} */
